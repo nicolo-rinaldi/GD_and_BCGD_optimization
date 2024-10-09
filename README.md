@@ -1,7 +1,7 @@
 # GD_and_BCGD_optimization
 This work was done as homework for an optimization course.
 
-Collaborators: C. Colanero, G. Sanguin, N. Rinaldi
+Collaborators: F. Boldrini, C. Colanero, G. Sanguin
 
 We want to analyze different methods to approach semisupervised learning as an optimization problem. That is, we are going to study which one among the Gradient Descent, the Block Coordinates Gradient Descent with randomized rule and the Block Coordinates Gradient Descent with Gauss- Southwell rule is the most efficient in terms of time and accuracy.
 
